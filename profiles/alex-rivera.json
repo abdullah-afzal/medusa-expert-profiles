@@ -1,0 +1,17 @@
+  {
+    username: "alex-rivera",
+    name: "Alex Rivera",
+    title: "Senior MedusaJS Engineer",
+    bio: "Headless commerce specialist. 6+ years shipping Medusa storefronts and custom plugins for D2C brands. Previously at Shopify Plus agencies.",
+    skills: ["MedusaJS", "Next.js", "TypeScript", "PostgreSQL", "Stripe", "Tailwind"],
+    availability: "available",
+    location: "Lisbon, Portugal",
+    type: "individual",
+    links: { github: "https://github.com", linkedin: "https://linkedin.com", website: "https://example.com" },
+    yearsExperience: 6,
+    hourlyRate: "$120/hr",
+    projects: [
+      { name: "Lumen Apparel", description: "Migrated Shopify Plus to Medusa, +38% conversion." },
+      { name: "Northwind Goods", description: "Custom B2B pricing engine on Medusa core." },
+    ],
+  }
